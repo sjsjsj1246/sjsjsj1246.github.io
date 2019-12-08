@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: writings
+title: Writings
 excerpt: "A List of writings"
 comments: false
 ---
